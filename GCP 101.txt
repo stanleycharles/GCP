@@ -1,7 +1,7 @@
 Voir Labs Google Partners
 + YT videos Bookmarked
 
-### Compute Engine
+### Compute Engine  -  in28minutes courses
 
 gcloud config list project
 gcloud config configurations list
