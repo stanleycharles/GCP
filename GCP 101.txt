@@ -1,3 +1,6 @@
+Voir Labs Google Partners
++ YT videos Bookmarked
+
 ### Compute Engine
 
 gcloud config list project
